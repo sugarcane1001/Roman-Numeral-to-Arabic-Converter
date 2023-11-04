@@ -1,0 +1,1 @@
+This project takes a text file as input that has Roman Numerals, converts them with their respective Arabic numbers in a Hashmap, stores them in a Treemap, and finally with the help of Iterators, it displays them in a Graphic User Interface (GUI).
